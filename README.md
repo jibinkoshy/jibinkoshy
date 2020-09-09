@@ -79,6 +79,20 @@
 <span><b><center>Docker</center></b></span> 
 <img height=65px src="https://cdn.svgporn.com/logos/docker.svg"> 
 </td>
+  
+<td align="center" width="20%">
+<span><b><center>Typescript</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>VS Code</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png"> 
+</td>
+
+
+  
+ 
   </tr>
 
 </tbody>
