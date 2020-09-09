@@ -62,7 +62,24 @@
 <span><b><center>HTML</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
+
+<td align="center" width="20%">
+<span><b><center>Redux</center></b></span> 
+<img height=65px src="https://cdn.svgporn.com/logos/redux.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Azure</center></b></span> 
+<img height=65px src="https://cdn.svgporn.com/logos/azure.svg"> 
+</td>
 </tr>
+
+<tr>
+  <td align="center" width="20%">
+<span><b><center>Docker</center></b></span> 
+<img height=65px src="https://cdn.svgporn.com/logos/docker.svg"> 
+</td>
+  </tr>
 
 </tbody>
 </table>
