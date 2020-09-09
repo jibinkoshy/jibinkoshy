@@ -4,7 +4,7 @@
 
 
 
-<p align="center"> <samp>Hi, My name is Jibin Koshy. I am a  B.Tech graduate working as a Full Stack Developer. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using 
+<p align="center"> <samp>Hi, My name is Jibin Koshy. I am a  Senior Full Stack Developer. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using 
   
   
 ## Tech Stack :computer:
