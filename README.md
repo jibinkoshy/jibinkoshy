@@ -25,9 +25,10 @@
 <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
 
+
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+<span><b><center>SharePoint</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Microsoft_Office_SharePoint_%282018%E2%80%93present%29.svg/66px-Microsoft_Office_SharePoint_%282018%E2%80%93present%29.svg.png"> 
 </td>
 
 </tr>
@@ -35,19 +36,22 @@
 
 
 <tr>
-<td align="center" width="20%">
-<span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
-</td>
 
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
-</td>
+
 
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Typescript</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 
 
@@ -80,10 +84,13 @@
 <img height=65px src="https://cdn.svgporn.com/logos/docker.svg"> 
 </td>
   
-<td align="center" width="20%">
-<span><b><center>Typescript</center></b></span> 
-<img height=65px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> 
+  <td align="center" width="20%">
+<span><b><center>Jenkins</center></b></span> 
+<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
 </td>
+
+  
+
 
 <td align="center" width="20%">
 <span><b><center>VS Code</center></b></span> 
