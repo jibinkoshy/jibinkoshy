@@ -101,6 +101,14 @@
   
  
   </tr>
+  
+  <tr>
+  <td align="center" width="20%">
+<span><b><center>Office 365</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/220px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png"> 
+</td>
+ 
+  </tr>
 
 </tbody>
 </table>
